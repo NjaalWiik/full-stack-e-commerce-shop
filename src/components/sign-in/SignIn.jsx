@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 
 // Components
 import FormInput from '../form-input/FormInput';
+import CustomButton from '../custom-button/CustomButton';
 
 // Styles
 import './SignIn.styles.scss';
@@ -48,7 +49,7 @@ const SignIn = () => {
           handleChange={onChange}
           required
         />
-        <input type='submit' value='Submit Form' />
+        <CustomButton type='submit'> Sign in </CustomButton>
       </form>
     </div>
   );
