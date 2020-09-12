@@ -168,4 +168,4 @@ Project Link: [https://github.com/NjaalWiik/ecommerce-minimalistic](https://gith
 [license-url]: https://github.com/NjaalWiik/repo/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/NjaalWiik
-[product-screenshot]: https://github.com/othneildrew/Best-README-Template/raw/master/images/screenshot.png
+[product-screenshot]: https://im.ezgif.com/tmp/ezgif-1-f535dfe33cce.gif
