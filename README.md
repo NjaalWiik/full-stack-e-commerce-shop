@@ -161,9 +161,9 @@ Project Link: [https://github.com/NjaalWiik/ecommerce-minimalistic](https://gith
 [forks-shield]: https://img.shields.io/github/forks/NjaalWiik/repo.svg?style=flat-square
 [forks-url]: https://github.com/NjaalWiik/repo/network/members
 [stars-shield]: https://img.shields.io/github/stars/NjaalWiik/repo.svg?style=flat-square
-[stars-url]: https://github.com/NjaalWiik/repo/stargazers
+[stars-url]: https://github.com/NjaalWiik/repo/ecommerce-minimalistic
 [issues-shield]: https://img.shields.io/github/issues/NjaalWiik/repo.svg?style=flat-square
-[issues-url]: https://github.com/NjaalWiik/repo/issues
+[issues-url]: https://github.com/NjaalWiik/ecommerce-minimalistic/issues
 [license-shield]: https://img.shields.io/github/license/NjaalWiik/repo.svg?style=flat-square
 [license-url]: https://github.com/NjaalWiik/repo/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
