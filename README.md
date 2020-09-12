@@ -133,7 +133,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter.com](https://twitter.com/twitter.com) - njal.wiik@gmail.com
+Njål J. Wiik - njal.wiik@gmail.com
 
 Project Link: [https://github.com/NjaalWiik/ecommerce-minimalistic](https://github.com/NjaalWiik/ecommerce-minimalistic)
 
