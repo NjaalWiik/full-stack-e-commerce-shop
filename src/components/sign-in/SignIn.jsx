@@ -39,7 +39,7 @@ const SignIn = () => {
           name='email'
           type='email'
           value={email}
-          label='email'
+          label='Email'
           handleChange={onChange}
           required
         />
@@ -47,7 +47,7 @@ const SignIn = () => {
           name='password'
           type='password'
           value={password}
-          label='password'
+          label='Password'
           handleChange={onChange}
           required
         />

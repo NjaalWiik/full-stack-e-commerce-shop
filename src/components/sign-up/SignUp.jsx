@@ -15,7 +15,8 @@ const SignUp = () => {
     confirmPassword: ''
   });
 
-  const handleChange = e => setFormData({ [e.target.name]: e.target.value });
+  const handleChange = e =>
+    setFormData({ ...formData, [e.target.name]: e.target.value });
 
   const handleSubmit = async e => {
     e.preventDefault();
@@ -53,7 +54,7 @@ const SignUp = () => {
         <FormInput
           type='text'
           name='displayName'
-          label='name'
+          label='Name'
           value={displayName}
           onChange={handleChange}
           required
@@ -61,7 +62,7 @@ const SignUp = () => {
         <FormInput
           type='email'
           name='email'
-          label='email'
+          label='Email'
           value={email}
           onChange={handleChange}
           required
@@ -69,7 +70,7 @@ const SignUp = () => {
         <FormInput
           type='password'
           name='password'
-          label='password'
+          label='Password'
           value={password}
           onChange={handleChange}
           required
@@ -77,7 +78,7 @@ const SignUp = () => {
         <FormInput
           type='password'
           name='confirmPassword'
-          label='confirm password'
+          label='Confirm password'
           value={confirmPassword}
           onChange={handleChange}
           required
