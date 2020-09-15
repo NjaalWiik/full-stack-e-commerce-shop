@@ -3,15 +3,19 @@ import { Route, Switch, Redirect } from 'react-router-dom';
 import { connect } from 'react-redux';
 import { createStructuredSelector } from 'reselect';
 
-import { auth, createUserProfileDocument } from './firebase/firebase.utils';
-import Header from './components/header/Header';
+import './App.css';
+
 import HomePage from './pages/home/HomePage';
 import ShopPage from './pages/shop/ShopPage';
 import SignInSignUpPage from './pages/sign-in-sign-up/SignInSignUpPage';
+import CheckoutPage from './pages/checkout/CheckoutPage';
+
+import Header from './components/header/Header';
+
+import { auth, createUserProfileDocument } from './firebase/firebase.utils';
+
 import { setCurrentUser } from './redux/user/user.actions';
 import { selectCurrentUser } from './redux/user/user.selector';
-
-import './App.css';
 
 function App({ currentUser, setCurrentUser }) {
   useEffect(() => {
@@ -39,6 +43,7 @@ function App({ currentUser, setCurrentUser }) {
       <Switch>
         <Route exact path='/' component={HomePage} />
         <Route exact path='/shop' component={ShopPage} />
+        <Route exact path='/checkout' component={CheckoutPage} />
         <Route
           exact
           path='/signin'
