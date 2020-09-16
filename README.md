@@ -6,10 +6,10 @@
     <img src="images/logo_transparent.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">eCommerce with a Minimalistic Design</h3>
+  <h3 align="center">Hanger Clothing</h3>
 
   <p align="center">
-    eCommerce with a Minimalistic Design
+    eCommerce Shop with a Minimalistic Design
     <br />
     <a href="https://github.com/NjaalWiik/ecommerce-minimalistic"><strong>Explore the docs »</strong></a>
     <br />
