@@ -44,6 +44,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+Test it here: https://hanger-minimalist-ecom.herokuapp.com/
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
@@ -164,4 +165,4 @@ Project Link: [https://github.com/NjaalWiik/ecommerce-minimalistic](https://gith
 [license-url]: https://github.com/NjaalWiik/repo/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/NjaalWiik
-[product-screenshot]: https://im.ezgif.com/tmp/ezgif-1-f535dfe33cce.gif
+[product-screenshot]: https://s1.gifyu.com/images/promo-gif.gif
