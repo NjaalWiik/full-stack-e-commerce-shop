@@ -1,16 +1,15 @@
-import React, { useState, useEffect } from 'react';
+import React, { useEffect } from 'react';
 import { Route, Switch, Redirect } from 'react-router-dom';
 import { connect } from 'react-redux';
 import { createStructuredSelector } from 'reselect';
-
-import './App.css';
 
 import HomePage from './pages/home/HomePage';
 import ShopPage from './pages/shop/ShopPage';
 import SignInSignUpPage from './pages/sign-in-sign-up/SignInSignUpPage';
 import CheckoutPage from './pages/checkout/CheckoutPage';
-
 import Header from './components/header/Header';
+
+import { GlobalStyle } from './global.styles';
 
 import { auth, createUserProfileDocument } from './firebase/firebase.utils';
 
@@ -39,6 +38,7 @@ function App({ currentUser, setCurrentUser }) {
 
   return (
     <div>
+      <GlobalStyle />
       <Header />
       <Switch>
         <Route exact path='/' component={HomePage} />
