@@ -5,14 +5,14 @@ import SignIn from '../../components/sign-in/SignIn';
 import SignUp from '../../components/sign-up/SignUp';
 
 // Style
-import './SignInSignUpPage.styles.scss';
+import { SignInAndSignUpContainer } from './SignInSignUpPage.styles';
 
 const SignInSignUpPage = () => {
   return (
-    <div className='sign-in-and-sign-up'>
+    <SignInAndSignUpContainer>
       <SignIn />
       <SignUp />
-    </div>
+    </SignInAndSignUpContainer>
   );
 };
 

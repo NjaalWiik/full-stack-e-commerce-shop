@@ -4,14 +4,12 @@ import React from 'react';
 import MenuItem from '../../components/directory/Directory';
 
 // Style
-import './HomePage.styles.scss';
+import { HomePageContainer } from './HomePage.styles';
 
-const HomePage = () => {
-  return (
-    <div className='homepage'>
-      <MenuItem />
-    </div>
-  );
-};
+const HomePage = () => (
+  <HomePageContainer>
+    <MenuItem />
+  </HomePageContainer>
+);
 
 export default HomePage;
