@@ -1,0 +1,582 @@
+[
+  {
+    "month": "2018-11",
+    "transaction_sold_count": 31,
+    "mo_transaction_sold_count": 31,
+    "revenue_usd": 655.17,
+    "mo_revenue_usd": 655.17,
+    "revenue_multiple": 0.9728645063704825,
+    "total_reviews": 4,
+    "mo_reviews": 4
+  },
+  {
+    "month": "2018-12",
+    "transaction_sold_count": 69,
+    "mo_transaction_sold_count": 38,
+    "revenue_usd": 1523.67,
+    "mo_revenue_usd": 846.48,
+    "revenue_multiple": 1.0055562227499015,
+    "total_reviews": 9,
+    "mo_reviews": 5
+  },
+  {
+    "month": "2019-01",
+    "transaction_sold_count": 153,
+    "mo_transaction_sold_count": 84,
+    "revenue_usd": 3567.9,
+    "mo_revenue_usd": 1962.35,
+    "revenue_multiple": 1.059598948626665,
+    "total_reviews": 20,
+    "mo_reviews": 11
+  },
+  {
+    "month": "2019-02",
+    "transaction_sold_count": 207,
+    "mo_transaction_sold_count": 54,
+    "revenue_usd": 4288.14,
+    "mo_revenue_usd": 1111.74,
+    "revenue_multiple": 0.9433297272901299,
+    "total_reviews": 27,
+    "mo_reviews": 7
+  },
+  {
+    "month": "2019-03",
+    "transaction_sold_count": 291,
+    "mo_transaction_sold_count": 84,
+    "revenue_usd": 6738.69,
+    "mo_revenue_usd": 1950.67,
+    "revenue_multiple": 1.053295737414972,
+    "total_reviews": 38,
+    "mo_reviews": 11
+  },
+  {
+    "month": "2019-04",
+    "transaction_sold_count": 321,
+    "mo_transaction_sold_count": 31,
+    "revenue_usd": 6791.9,
+    "mo_revenue_usd": 646.85,
+    "revenue_multiple": 0.9605071483366265,
+    "total_reviews": 42,
+    "mo_reviews": 4
+  },
+  {
+    "month": "2019-05",
+    "transaction_sold_count": 337,
+    "mo_transaction_sold_count": 15,
+    "revenue_usd": 7031.74,
+    "mo_revenue_usd": 319.62,
+    "revenue_multiple": 0.9492237499234518,
+    "total_reviews": 44,
+    "mo_reviews": 2
+  },
+  {
+    "month": "2019-06",
+    "transaction_sold_count": 360,
+    "mo_transaction_sold_count": 23,
+    "revenue_usd": 7705.55,
+    "mo_revenue_usd": 491.84,
+    "revenue_multiple": 0.9737878125167008,
+    "total_reviews": 47,
+    "mo_reviews": 3
+  },
+  {
+    "month": "2019-07",
+    "transaction_sold_count": 375,
+    "mo_transaction_sold_count": 15,
+    "revenue_usd": 8341.45,
+    "mo_revenue_usd": 340.47,
+    "revenue_multiple": 1.011123321886308,
+    "total_reviews": 49,
+    "mo_reviews": 2
+  },
+  {
+    "month": "2019-08",
+    "transaction_sold_count": 398,
+    "mo_transaction_sold_count": 23,
+    "revenue_usd": 9572.8,
+    "mo_revenue_usd": 552.28,
+    "revenue_multiple": 1.0934384859951676,
+    "total_reviews": 52,
+    "mo_reviews": 3
+  },
+  {
+    "month": "2019-09",
+    "transaction_sold_count": 421,
+    "mo_transaction_sold_count": 23,
+    "revenue_usd": 8444.92,
+    "mo_revenue_usd": 460.63,
+    "revenue_multiple": 0.911992727870878,
+    "total_reviews": 55,
+    "mo_reviews": 3
+  },
+  {
+    "month": "2019-10",
+    "transaction_sold_count": 436,
+    "mo_transaction_sold_count": 15,
+    "revenue_usd": 10411.3,
+    "mo_revenue_usd": 365.31,
+    "revenue_multiple": 1.08489768695256,
+    "total_reviews": 57,
+    "mo_reviews": 2
+  },
+  {
+    "month": "2019-11",
+    "transaction_sold_count": 474,
+    "mo_transaction_sold_count": 38,
+    "revenue_usd": 10047.7,
+    "mo_revenue_usd": 810.3,
+    "revenue_multiple": 0.9625724483184235,
+    "total_reviews": 62,
+    "mo_reviews": 5
+  },
+  {
+    "month": "2019-12",
+    "transaction_sold_count": 528,
+    "mo_transaction_sold_count": 54,
+    "revenue_usd": 10509.46,
+    "mo_revenue_usd": 1066.18,
+    "revenue_multiple": 0.9046693736013061,
+    "total_reviews": 69,
+    "mo_reviews": 7
+  },
+  {
+    "month": "2020-01",
+    "transaction_sold_count": 582,
+    "mo_transaction_sold_count": 54,
+    "revenue_usd": 12861.69,
+    "mo_revenue_usd": 1184.63,
+    "revenue_multiple": 1.0051781612729873,
+    "total_reviews": 76,
+    "mo_reviews": 7
+  },
+  {
+    "month": "2020-02",
+    "transaction_sold_count": 628,
+    "mo_transaction_sold_count": 46,
+    "revenue_usd": 14711.12,
+    "mo_revenue_usd": 1076.42,
+    "revenue_multiple": 1.0655912712851148,
+    "total_reviews": 82,
+    "mo_reviews": 6
+  },
+  {
+    "month": "2020-03",
+    "transaction_sold_count": 658,
+    "mo_transaction_sold_count": 31,
+    "revenue_usd": 15334.87,
+    "mo_revenue_usd": 713.25,
+    "revenue_multiple": 1.0591080098400605,
+    "total_reviews": 86,
+    "mo_reviews": 4
+  },
+  {
+    "month": "2020-04",
+    "transaction_sold_count": 666,
+    "mo_transaction_sold_count": 8,
+    "revenue_usd": 14042.86,
+    "mo_revenue_usd": 161.41,
+    "revenue_multiple": 0.958727009917435,
+    "total_reviews": 87,
+    "mo_reviews": 1
+  },
+  {
+    "month": "2020-05",
+    "transaction_sold_count": 719,
+    "mo_transaction_sold_count": 54,
+    "revenue_usd": 14279.05,
+    "mo_revenue_usd": 1063.33,
+    "revenue_multiple": 0.9022564532584693,
+    "total_reviews": 94,
+    "mo_reviews": 7
+  },
+  {
+    "month": "2020-06",
+    "transaction_sold_count": 727,
+    "mo_transaction_sold_count": 8,
+    "revenue_usd": 16240.64,
+    "mo_revenue_usd": 170.95,
+    "revenue_multiple": 1.0154023850801976,
+    "total_reviews": 95,
+    "mo_reviews": 1
+  },
+  {
+    "month": "2020-07",
+    "transaction_sold_count": 750,
+    "mo_transaction_sold_count": 23,
+    "revenue_usd": 16736.29,
+    "mo_revenue_usd": 512.34,
+    "revenue_multiple": 1.014358949959939,
+    "total_reviews": 98,
+    "mo_reviews": 3
+  },
+  {
+    "month": "2020-08",
+    "transaction_sold_count": 773,
+    "mo_transaction_sold_count": 23,
+    "revenue_usd": 16064.61,
+    "mo_revenue_usd": 477.17,
+    "revenue_multiple": 0.9447294287932337,
+    "total_reviews": 101,
+    "mo_reviews": 3
+  },
+  {
+    "month": "2020-09",
+    "transaction_sold_count": 781,
+    "mo_transaction_sold_count": 8,
+    "revenue_usd": 18789.11,
+    "mo_revenue_usd": 184.21,
+    "revenue_multiple": 1.0941191750904087,
+    "total_reviews": 102,
+    "mo_reviews": 1
+  },
+  {
+    "month": "2020-10",
+    "transaction_sold_count": 880,
+    "mo_transaction_sold_count": 99,
+    "revenue_usd": 20912.52,
+    "mo_revenue_usd": 2364.02,
+    "revenue_multiple": 1.0801080025447423,
+    "total_reviews": 115,
+    "mo_reviews": 13
+  },
+  {
+    "month": "2020-11",
+    "transaction_sold_count": 949,
+    "mo_transaction_sold_count": 69,
+    "revenue_usd": 22068.05,
+    "mo_revenue_usd": 1601.71,
+    "revenue_multiple": 1.0570631705207347,
+    "total_reviews": 124,
+    "mo_reviews": 9
+  },
+  {
+    "month": "2020-12",
+    "transaction_sold_count": 1041,
+    "mo_transaction_sold_count": 92,
+    "revenue_usd": 20651.23,
+    "mo_revenue_usd": 1822.17,
+    "revenue_multiple": 0.9019150776730843,
+    "total_reviews": 136,
+    "mo_reviews": 12
+  },
+  {
+    "month": "2021-01",
+    "transaction_sold_count": 1416,
+    "mo_transaction_sold_count": 375,
+    "revenue_usd": 29731.83,
+    "mo_revenue_usd": 7874.92,
+    "revenue_multiple": 0.9545717610641238,
+    "total_reviews": 185,
+    "mo_reviews": 49
+  },
+  {
+    "month": "2021-02",
+    "transaction_sold_count": 1691,
+    "mo_transaction_sold_count": 275,
+    "revenue_usd": 39786.74,
+    "mo_revenue_usd": 6481.1,
+    "revenue_multiple": 1.069312873396043,
+    "total_reviews": 221,
+    "mo_reviews": 36
+  },
+  {
+    "month": "2021-03",
+    "transaction_sold_count": 1959,
+    "mo_transaction_sold_count": 268,
+    "revenue_usd": 39973.17,
+    "mo_revenue_usd": 5465.08,
+    "revenue_multiple": 0.9274430452157132,
+    "total_reviews": 256,
+    "mo_reviews": 35
+  },
+  {
+    "month": "2021-04",
+    "transaction_sold_count": 2265,
+    "mo_transaction_sold_count": 306,
+    "revenue_usd": 48286.33,
+    "mo_revenue_usd": 6525.18,
+    "revenue_multiple": 0.968927303295136,
+    "total_reviews": 296,
+    "mo_reviews": 40
+  },
+  {
+    "month": "2021-05",
+    "transaction_sold_count": 2495,
+    "mo_transaction_sold_count": 230,
+    "revenue_usd": 56300.39,
+    "mo_revenue_usd": 5181.02,
+    "revenue_multiple": 1.0257759060610883,
+    "total_reviews": 326,
+    "mo_reviews": 30
+  },
+  {
+    "month": "2021-06",
+    "transaction_sold_count": 2809,
+    "mo_transaction_sold_count": 314,
+    "revenue_usd": 60542.91,
+    "mo_revenue_usd": 6763.65,
+    "revenue_multiple": 0.9798415808902625,
+    "total_reviews": 367,
+    "mo_reviews": 41
+  },
+  {
+    "month": "2021-07",
+    "transaction_sold_count": 3099,
+    "mo_transaction_sold_count": 291,
+    "revenue_usd": 69091.44,
+    "mo_revenue_usd": 6482.65,
+    "revenue_multiple": 1.013276370446794,
+    "total_reviews": 405,
+    "mo_reviews": 38
+  },
+  {
+    "month": "2021-08",
+    "transaction_sold_count": 3490,
+    "mo_transaction_sold_count": 390,
+    "revenue_usd": 83158.48,
+    "mo_revenue_usd": 9300.62,
+    "revenue_multiple": 1.0831793811828347,
+    "total_reviews": 456,
+    "mo_reviews": 51
+  },
+  {
+    "month": "2021-09",
+    "transaction_sold_count": 4048,
+    "mo_transaction_sold_count": 559,
+    "revenue_usd": 84792.64,
+    "mo_revenue_usd": 11701.06,
+    "revenue_multiple": 0.9520530752978227,
+    "total_reviews": 529,
+    "mo_reviews": 73
+  },
+  {
+    "month": "2021-10",
+    "transaction_sold_count": 4691,
+    "mo_transaction_sold_count": 643,
+    "revenue_usd": 107502.06,
+    "mo_revenue_usd": 14731.11,
+    "revenue_multiple": 1.0416336325529045,
+    "total_reviews": 613,
+    "mo_reviews": 84
+  },
+  {
+    "month": "2021-11",
+    "transaction_sold_count": 5273,
+    "mo_transaction_sold_count": 582,
+    "revenue_usd": 120366.64,
+    "mo_revenue_usd": 13277.02,
+    "revenue_multiple": 1.0376373357864297,
+    "total_reviews": 689,
+    "mo_reviews": 76
+  },
+  {
+    "month": "2021-12",
+    "transaction_sold_count": 6122,
+    "mo_transaction_sold_count": 849,
+    "revenue_usd": 147860.03,
+    "mo_revenue_usd": 20515.58,
+    "revenue_multiple": 1.0977905027846615,
+    "total_reviews": 800,
+    "mo_reviews": 111
+  },
+  {
+    "month": "2022-01",
+    "transaction_sold_count": 7224,
+    "mo_transaction_sold_count": 1102,
+    "revenue_usd": 157697.4,
+    "mo_revenue_usd": 24055.54,
+    "revenue_multiple": 0.9922273690855202,
+    "total_reviews": 944,
+    "mo_reviews": 144
+  },
+  {
+    "month": "2022-02",
+    "transaction_sold_count": 8058,
+    "mo_transaction_sold_count": 834,
+    "revenue_usd": 184487.17,
+    "mo_revenue_usd": 19096.96,
+    "revenue_multiple": 1.0406303226158662,
+    "total_reviews": 1053,
+    "mo_reviews": 109
+  },
+  {
+    "month": "2022-03",
+    "transaction_sold_count": 9206,
+    "mo_transaction_sold_count": 1148,
+    "revenue_usd": 190220.56,
+    "mo_revenue_usd": 23718.27,
+    "revenue_multiple": 0.9391835913219932,
+    "total_reviews": 1203,
+    "mo_reviews": 150
+  },
+  {
+    "month": "2022-04",
+    "transaction_sold_count": 10079,
+    "mo_transaction_sold_count": 872,
+    "revenue_usd": 219896.69,
+    "mo_revenue_usd": 19034.34,
+    "revenue_multiple": 0.9917257535558313,
+    "total_reviews": 1317,
+    "mo_reviews": 114
+  },
+  {
+    "month": "2022-05",
+    "transaction_sold_count": 11081,
+    "mo_transaction_sold_count": 1003,
+    "revenue_usd": 259946.59,
+    "mo_revenue_usd": 23517.27,
+    "revenue_multiple": 1.0662872928741232,
+    "total_reviews": 1448,
+    "mo_reviews": 131
+  },
+  {
+    "month": "2022-06",
+    "transaction_sold_count": 12168,
+    "mo_transaction_sold_count": 1087,
+    "revenue_usd": 272143.6,
+    "mo_revenue_usd": 24304.65,
+    "revenue_multiple": 1.0166224052166175,
+    "total_reviews": 1590,
+    "mo_reviews": 142
+  },
+  {
+    "month": "2022-07",
+    "transaction_sold_count": 13454,
+    "mo_transaction_sold_count": 1286,
+    "revenue_usd": 279104.18,
+    "mo_revenue_usd": 26672.07,
+    "revenue_multiple": 0.9429879298992906,
+    "total_reviews": 1758,
+    "mo_reviews": 168
+  },
+  {
+    "month": "2022-08",
+    "transaction_sold_count": 14770,
+    "mo_transaction_sold_count": 1316,
+    "revenue_usd": 313010.95,
+    "mo_revenue_usd": 27895.28,
+    "revenue_multiple": 0.9632985103196607,
+    "total_reviews": 1930,
+    "mo_reviews": 172
+  },
+  {
+    "month": "2022-09",
+    "transaction_sold_count": 16140,
+    "mo_transaction_sold_count": 1370,
+    "revenue_usd": 343678.63,
+    "mo_revenue_usd": 29169.5,
+    "revenue_multiple": 0.9679091975964645,
+    "total_reviews": 2109,
+    "mo_reviews": 179
+  },
+  {
+    "month": "2022-10",
+    "transaction_sold_count": 17341,
+    "mo_transaction_sold_count": 1201,
+    "revenue_usd": 356095.56,
+    "mo_revenue_usd": 24672.11,
+    "revenue_multiple": 0.9333946747090923,
+    "total_reviews": 2266,
+    "mo_reviews": 157
+  },
+  {
+    "month": "2022-11",
+    "transaction_sold_count": 18765,
+    "mo_transaction_sold_count": 1423,
+    "revenue_usd": 374034.19,
+    "mo_revenue_usd": 28372.9,
+    "revenue_multiple": 0.9060444470429998,
+    "total_reviews": 2452,
+    "mo_reviews": 186
+  },
+  {
+    "month": "2022-12",
+    "transaction_sold_count": 22086,
+    "mo_transaction_sold_count": 3321,
+    "revenue_usd": 501670.31,
+    "mo_revenue_usd": 75441.76,
+    "revenue_multiple": 1.032477844186407,
+    "total_reviews": 2886,
+    "mo_reviews": 434
+  },
+  {
+    "month": "2023-01",
+    "transaction_sold_count": 24818,
+    "mo_transaction_sold_count": 2732,
+    "revenue_usd": 506705.11,
+    "mo_revenue_usd": 55779.75,
+    "revenue_multiple": 0.9280406607122044,
+    "total_reviews": 3243,
+    "mo_reviews": 357
+  },
+  {
+    "month": "2023-02",
+    "transaction_sold_count": 27190,
+    "mo_transaction_sold_count": 2372,
+    "revenue_usd": 609608.37,
+    "mo_revenue_usd": 53188.46,
+    "revenue_multiple": 1.0190943257907223,
+    "total_reviews": 3553,
+    "mo_reviews": 310
+  },
+  {
+    "month": "2023-03",
+    "transaction_sold_count": 29517,
+    "mo_transaction_sold_count": 2326,
+    "revenue_usd": 651105.79,
+    "mo_revenue_usd": 51318.68,
+    "revenue_multiple": 1.0026759200700506,
+    "total_reviews": 3857,
+    "mo_reviews": 304
+  },
+  {
+    "month": "2023-04",
+    "transaction_sold_count": 30940,
+    "mo_transaction_sold_count": 1423,
+    "revenue_usd": 726916.68,
+    "mo_revenue_usd": 33442.12,
+    "revenue_multiple": 1.0679220629785766,
+    "total_reviews": 4043,
+    "mo_reviews": 186
+  },
+  {
+    "month": "2023-05",
+    "transaction_sold_count": 32096,
+    "mo_transaction_sold_count": 1156,
+    "revenue_usd": 734344.56,
+    "mo_revenue_usd": 26439.21,
+    "revenue_multiple": 1.0399923062581093,
+    "total_reviews": 4194,
+    "mo_reviews": 151
+  },
+  {
+    "month": "2023-06",
+    "transaction_sold_count": 33075,
+    "mo_transaction_sold_count": 980,
+    "revenue_usd": 783034.6,
+    "mo_revenue_usd": 23190.29,
+    "revenue_multiple": 1.0761055116230376,
+    "total_reviews": 4322,
+    "mo_reviews": 128
+  },
+  {
+    "month": "2023-07",
+    "transaction_sold_count": 34216,
+    "mo_transaction_sold_count": 1140,
+    "revenue_usd": 805098.23,
+    "mo_revenue_usd": 26830.61,
+    "revenue_multiple": 1.0695543779978438,
+    "total_reviews": 4471,
+    "mo_reviews": 149
+  },
+  {
+    "month": "2023-08",
+    "transaction_sold_count": 35111,
+    "mo_transaction_sold_count": 895,
+    "revenue_usd": 699090.46,
+    "mo_revenue_usd": 17827.72,
+    "revenue_multiple": 0.9050417874906426,
+    "total_reviews": 4588,
+    "mo_reviews": 117
+  }
+]
